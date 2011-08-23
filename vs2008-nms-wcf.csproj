@@ -132,6 +132,8 @@
     <Compile Include="src\main\csharp\NmsOutputChannel.cs" />
     <Compile Include="src\main\csharp\NmsOutputChannelBase.cs" />
     <Compile Include="src\main\csharp\NmsOutputSessionChannel.cs" />
+    <Compile Include="src\main\csharp\NmsReplyChannel.cs" />
+    <Compile Include="src\main\csharp\NmsRequestContext.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="keyfile\NMSKey.snk" />
